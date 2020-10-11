@@ -8,3 +8,4 @@ faces.png：识别图片
 
 haarcascade_frontalface_alt2.xml：已经训练好的模型，源于opencv
 
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
